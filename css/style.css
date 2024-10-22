@@ -1,0 +1,1749 @@
+* {
+  font-family: 'DM Sans';
+}
+/* *helping classe start*/
+.pt20 {
+  padding-top: 20px;
+}
+
+.web-color {
+  color: #D02D2D;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.center {
+  text-align: center;
+}
+/* *helping classe  end*/
+.main-heading {
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: 700;
+  color: #1F1515;
+}
+
+.sub-text {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #555770;
+  padding: 10px 0px;
+}
+
+
+#top-header {
+  background-color: #0B1F40;
+  padding: 8px 0px;
+}
+
+#top-header .top-header-flex {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 30px;
+
+}
+
+.top-header-flex .top-header-text {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+
+.navbar {
+  padding: 0px 0px;
+  border-bottom: solid 1px #EBEBF0;
+}
+
+.navbar .dropdown-toggle::after {
+  display: none;
+}
+
+.navbar .navbar-brand {
+  padding: 0px;
+}
+
+.navbar-brand img {
+  width: 100px;
+}
+
+.navbar .nav-item {
+  padding: 0px 0px 0px 30px;
+}
+
+.navbar .nav-link {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #060A23;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #060A23;
+  padding: 0px 0px !important;
+}
+
+.fa-bars {
+  color: #007bff;
+  font-size: 14px;
+}
+
+.navbar-nav .nav-item.active .nav-link {
+  color: #D02D2D;
+  border-bottom: 1px solid #D02D2D;
+  padding-bottom: 0px;
+  position: relative;
+  line-height: 70px;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: #D02D2D;
+  border-bottom: 1px solid #D02D2D;
+  padding-bottom: 0px;
+  position: relative;
+  line-height: 70px;
+}
+
+.lets-talk-btn {
+  background: #0B1F40;
+  color: #FFFFFF;
+  height: 40px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  width: 106px;
+
+}
+
+.lets-talk-btn:hover {
+  color: #FFFFFF !important;
+}
+
+.navbar-ul {
+  display: flex;
+  align-items: center;
+}
+
+
+/* Leading business Valuation services css code[start] */
+.leading-business {
+  background-image: url('../images/Homepage-bg.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 100%;
+  padding: 30px 0px 100px 0px;
+}
+
+.lb-height {
+  height: auto;
+}
+
+.leading-business .ulheading {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 700;
+  color: #555770;
+  padding: 0px 0px;
+}
+
+.leading-business ul {
+  list-style: none;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+  color: #060A23;
+  padding: 5px 0px 5px 0px;
+  text-transform: uppercase;
+  letter-spacing: 0.9px;
+}
+
+.leading-business ul li {
+  padding: 7px 0px;
+}
+
+.calccheck-circle {
+  width: 9.73px;
+  height: 9.73px;
+  border-radius: 50%;
+  opacity: 0px;
+  background-color: #A82424;
+  padding: 0px 4px;
+  margin-right: 5px;
+
+}
+
+.calccheck-circle .fa-check {
+  color: #ffffff;
+  font-size: 8px;
+  position: relative;
+  bottom: 2px;
+}
+
+.newsletter-bg img {
+  width: 100%;
+  height: 483px
+}
+
+.valuation-calc-btn {
+  color: #FFFFFF;
+  border-radius: 6px;
+  margin-right: 20px;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  height: 48px;
+  width: 270px;
+  padding: 15px 0px;
+  text-align: center;
+  cursor: pointer;
+  background: linear-gradient(92.17deg, #D02D2D 0.47%, #A82424 101.07%);
+
+}
+
+.free-consultation-btn {
+  color: #D02D2D;
+  border-radius: 6px;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  height: 48px;
+  width: 220px;
+  padding: 15px 0px;
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid #D02D2D;
+  background: #FFFFFF;
+
+}
+
+.three-sixty-text {
+  font-size: 13px;
+  line-height: 16px;
+  font-weight: 700;
+  color: #7D7D89;
+  text-transform: uppercase;
+  padding: 15px 0px;
+  letter-spacing: 12px;
+  width: 100%;
+}
+
+/* Our speaking numbers section css code [start]- */
+.our-speaking-numbers {
+  padding: 40px 0px;
+}
+
+.our-speaking-numbers .number-flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+.number-flex .number-heading {
+  font-size: 40px;
+  line-height: 60px;
+  font-weight: 700;
+  color: #000000;
+  padding: 5px 0px;
+}
+
+.number-flex .number-text {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #000000;
+  padding: 0px 0px 5px 0px;
+}
+
+.number-bg {
+  background-color: #FAFAFA;
+  height: 86px;
+  border-radius: 6px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 0px;
+}
+
+.number-bg img {
+  padding-right: 10px;
+}
+
+.divider {
+  height: 100%;
+  width: 1px;
+  background-color: #CCCCCC;
+  margin: 0 0px;
+}
+
+/* Our partrner section css code [start] */
+.our-partner {
+  padding: 10px;
+  background-color: #FAFAFA;
+  ;
+}
+
+.our-partner .partner-name {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 500;
+  color: #969EB0;
+  padding: 5px 0px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.our-partner img {
+  width: 100px;
+  /* height: 100px; */
+  animation: scroll 60s linear infinite;
+}
+
+.slider {
+  margin: 20px 0px;
+}
+
+.slide-track {
+  width: 100%;
+  display: flex;
+  gap: 5em;
+  overflow: hidden;
+}
+
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translatex(-1000%)
+  }
+}
+
+
+/* Our service section css code [start]- */
+.our-services {
+  padding: 30px 0px;
+  background-color: #FAFAFA;
+}
+
+.our-service-card {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 15px 15px;
+  border-radius: 12px;
+  border: 1px solid #CDCDCD;
+  margin: 15px 0px;
+  height: 185px;
+}
+
+.our-service-card:hover {
+  border: 1px solid #D02D2D;
+}
+
+.our-service-card .card-text-pad {
+  padding-left: 15px;
+}
+
+.our-service-card .ourservice-card-heading {
+  font-size: 22px;
+  line-height: 28px;
+  font-weight: 700;
+  color: #000000;
+  padding: 0px 0px;
+}
+
+.our-service-card .ourservice-card-text {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+  color: #555770;
+
+  padding: 7px 0px 7px 0px;
+}
+
+.our-service-card .ourservice-link-more {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  color: #D02D2D;
+  padding: 5px 0px 5px 0px;
+  cursor: pointer;
+}
+
+.ourservice-link-more img {
+  width: 20px;
+}
+
+/* valuation calulator css code start */
+.valuation-calulator {
+  padding: 40px 0px;
+  background: #0B1F40;
+  margin-top: 30px;
+  background-image: url('../images/development-bg.png');
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: 18%;
+  /* height: 380px; */
+
+}
+
+.valuation-calulator .vc-calc-flex {
+  display: flex;
+  justify-content: right;
+  align-items: flex-start;
+}
+
+.width50 {
+  width: 50%;
+  margin: 0px 5% 0px 5%;
+}
+
+.vc-calc-flex .vc-heading {
+  font-size: 36px;
+  line-height: 44px;
+  font-weight: 700;
+  color: #FFFFFF;
+  padding: 5px 0px;
+}
+
+.vc-calc-flex .vc-text {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #FFFFFF;
+  padding: 5px 0px;
+}
+
+.vc-calc-flex ul {
+  list-style: none;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #F2F2F5;
+  padding: 7px 0px 7px 0px;
+  letter-spacing: 0.9px;
+}
+
+.vc-calc-flex ul li {
+  padding: 10px 0px;
+}
+
+.vccheck-circle {
+  width: 10.73px;
+  height: 10.73px;
+  border-radius: 50%;
+  opacity: 0px;
+  background-color: #A82424;
+  padding: 1px 5px;
+  margin-right: 5px;
+}
+
+.vccheck-circle .fa-check {
+  color: #0B1F40;
+  font-size: 10px;
+  position: relative;
+  bottom: 3px;
+}
+
+.click-here-bv-btn {
+  border-radius: 6px;
+  border: 1px solid #FCFCFD;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  height: 56px;
+  width: 370px;
+  padding: 15px 0px;
+  text-align: center;
+  cursor: pointer;
+  color: #FFFFFF;
+}
+
+
+/* Recent Article section css code [start] */
+.recent-article {
+  padding: 50px 0px;
+
+}
+
+.nav-tabs .nav-link img {
+  padding: 0px 5px;
+}
+
+.recent-article-tabs {
+  padding: 30px 0px;
+}
+
+.recent-article-tabs .nav {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.recent-article-tabs .nav-item {
+  flex: 1;
+}
+
+.recent-article-tabs .nav-link {
+  width: 100%;
+  padding: 15px 0px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  line-height: 20px;
+  font-size: 500;
+  color: #7D7D82;
+  background-color: #EDEDED;
+  border-radius: 0px;
+}
+
+.recent-article-tabs .nav-link.active {
+  color: #D02D2D;
+
+}
+
+.recent-article-tabs .nav-link img {
+  margin-right: 8px;
+}
+
+.article-date {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  padding: 7px 0px;
+}
+
+.article-heading {
+  font-size: 22px;
+  line-height: 28px;
+  font-weight: 700;
+  padding: 5px 0px;
+  color: #000000;
+}
+
+.article-text {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+  padding: 5px 0px;
+  color: #555770;
+}
+
+
+#article .row .col-lg-3:first-child .article-tab-img img {
+  border-radius: 0;
+}
+
+#article .row .col-lg-3:not(:first-child) .article-tab-img img {
+  border-radius: 10px;
+}
+
+#legal .row .col-lg-3:first-child .article-tab-img img {
+  border-radius: 0;
+}
+
+#legal .row .col-lg-3:not(:first-child) .article-tab-img img {
+  border-radius: 10px;
+}
+
+/* Newsletter section css code[start]  */
+
+.newsletter {
+  padding: 50px 0px;
+  background-image: url("../images/diomond-bg.png");
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 18%;
+  background-color: #FAFAFA;
+}
+
+.newsletter-line {
+  width: 100%;
+  height: 1px;
+  background: radial-gradient(50% 23459.55% at 50% 50%, #D02D2D 0%, rgba(248, 250, 253, 0) 100%);
+  margin: 0px 0px 7px 0px;
+}
+
+.newsletter .ulheading {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 700;
+  color: #555770;
+  padding: 0px 0px;
+}
+
+.newsletter ul {
+  /* padding-left: 25px; */
+  list-style: none;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+  color: #060A23;
+  padding: 5px 0px 0px 0px;
+  text-transform: uppercase;
+  letter-spacing: 0.9px;
+}
+
+.newsletter ul li {
+  padding: 7px 0px;
+}
+
+.newscheck-circle {
+  width: 9.73px;
+  height: 9.73px;
+  border-radius: 50%;
+  opacity: 0px;
+  background-color: #A82424;
+  padding: 0px 4px;
+  margin-right: 5px;
+
+}
+
+.newscheck-circle .fa-check {
+  color: #ffffff;
+  font-size: 8px;
+  position: relative;
+  bottom: 2px;
+}
+
+.newsletter-bg img {
+  width: 100%;
+  height: 483px
+}
+
+.subscribe-btn {
+  color: #FFFFFF;
+  border-radius: 6px;
+  margin-right: 15px;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  height: 48px;
+  width: 160px;
+  padding: 15px 0px;
+  text-align: center;
+  cursor: pointer;
+  background: linear-gradient(92.17deg, #D02D2D 0.47%, #A82424 101.07%);
+
+}
+
+.download-latest-btn {
+  color: #000000;
+  border-radius: 6px;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  height: 48px;
+  width: 290px;
+  padding: 15px 0px;
+  text-align: center;
+  cursor: pointer;
+  border: 1px solid #E4E8F2;
+  background: #FFFFFF;
+}
+
+/* What is Business Valuation section css code[start]  */
+.what-bv {
+  padding: 30px 0px 0px 0px;
+}
+
+.what-bv .bv-subtext {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #555770;
+  padding: 10px 80px;
+  text-align: center;
+}
+
+.what-bv .view-sample-btn {
+  border-radius: 6px;
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  height: 48px;
+  width: 450px;
+  padding: 10px 0px;
+  text-align: center;
+  cursor: pointer;
+  color: #A82424;
+  background: #FAFAFA;
+
+}
+
+.view-sample-btn img {
+  width: 22px;
+}
+
+.what-bv-bg img {
+  height: 500px;
+  width: 100%;
+  z-index: -1;
+  position: relative;
+  bottom: 44px;
+
+}
+
+.note {
+  background: #FAFAFA;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  height: 77px;
+  text-align: center;
+  color: #000000;
+  padding: 25px 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+/* Business Valuation in India section css code[start]  */
+.business-valuation {
+  background-image: url("../images/right-circle.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 16%;
+  background-color: #FAFAFA;
+  padding: 50px 0px;
+
+}
+
+.business-valuation .vb-heading {
+  font-size: 36px;
+  line-height: 44px;
+  font-weight: 700;
+  color: #1A1D1F;
+  padding: 10px 0px 0px 0px;
+}
+
+.business-valuation .vb-text {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #555770;
+  padding: 15px 0px;
+
+}
+
+.business-valuation ul {
+  /* padding-left: 25px; */
+  list-style: none;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #555770;
+  padding: 5px 0px 10px 0px;
+}
+
+.business-valuation ul li {
+  padding: 10px 0px;
+}
+
+.check-circle {
+  width: 10.73px;
+  height: 10.73px;
+  border-radius: 50%;
+  opacity: 0px;
+  background-color: #A82424;
+  padding: 0px 5px;
+  margin-right: 5px;
+}
+
+.check-circle .fa-check {
+  color: #ffffff;
+  font-size: 9px;
+  position: relative;
+  bottom: 1px;
+}
+
+.click-here-btn {
+  border-radius: 6px;
+  border: 1px solid #555770;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  height: 56px;
+  width: 280px;
+  padding: 15px 0px;
+  text-align: center;
+  cursor: pointer;
+  color: #555770;
+}
+
+.click-here-btn img {
+  padding-left: 7px;
+}
+
+.vb-book {
+  text-align: center;
+}
+
+/* Our Other Services carousel CSS code [start] */
+.services-carousel {
+  background-color: #FFFFFF;
+  padding: 50px 0px;
+}
+
+.services-carousel .carousel-heading-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.circle {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  padding: 20px 20px;
+  margin: 0px 0px 0px 15px;
+  cursor: pointer;
+}
+
+.service-card {
+  padding: 20px;
+  border: 1px solid #CDCDCD;
+  border-radius: 12px;
+  margin: 0px auto;
+  width: 400px;
+  height: auto;
+}
+
+.owl-carousel .item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.services-img {
+  width: 100%;
+  max-width: 50px;
+  height: auto;
+}
+
+.link-arrow {
+  width: 50%;
+  max-width: 20px;
+  height: auto;
+}
+
+.service-card .sc-heading {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #141F3C;
+  padding: 10px 0px;
+}
+
+.service-card .sc-text {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  color: #8E90A6;
+  padding: 5px 0px;
+
+}
+
+.link-text {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #A82424;
+  padding: 10px 0px;
+  display: flex;
+}
+
+
+.owl-carousel {
+  margin: 20px 0px 0px 0px;
+}
+
+.owl-carousel .item:first-child {
+  margin-left: 50px;
+}
+
+.owl-carousel .item {
+  margin-right: 0px;
+}
+
+.owl-carousel .owl-stage {
+  display: flex;
+  align-items: stretch;
+}
+
+/* FAQ Section css code [start] */
+.faq-section {
+  background-color: #FAFAFA;
+  padding: 50px 0px
+}
+
+.accordion-card {
+  background-color: #FFFFFF;
+  border-radius: 12px;
+  padding: 15px 20px;
+  margin: 0px 0px 20px 0px;
+}
+
+.accordion-card .accordion-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 8px;
+
+}
+
+.accordion-card .plus-minus-btn .btn {
+  padding: 0px;
+}
+
+.accordion-flex .btn.focus,
+.btn:focus {
+  outline: 0;
+  box-shadow: none !important
+}
+
+.accordion-card .accordion-heading {
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 500;
+  color: #1F1515;
+  padding: 0px 0px;
+}
+
+.accordion-card .accordion-content {
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  color: #4A4342;
+  padding: 10px 0px;
+}
+
+/* FAQ Section css code [end] */
+
+/* Footer css code [start] */
+.page-footer {
+  padding: 0px !important;
+}
+
+.page-footer ::placeholder {
+  color: #FFFFFF
+}
+
+.page-footer .copywright-text {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  padding: 35px 0px;
+  color: #FFFFFF;
+  border-top: solid 1px #555770;
+  text-align: center;
+}
+
+.footer-pad .mail-text {
+  display: flex;
+}
+
+.footer-pad {
+  background-color: #0B1F40;
+  height: auto;
+  padding: 60px 0px 0px 0px;
+}
+
+.footer-pad .footer-address {
+
+  padding: 15px 0px 15px 0px !important;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF !important;
+}
+
+.footer-pad .footer-heading {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+  color: #FFFFFF;
+  padding: 0px 0px 10px 0px;
+  letter-spacing: 0.5px;
+  text-transform: capitalize;
+}
+
+.footer-pad .footer-signuptext {
+  font-size: 12px;
+  font-weight: 400;
+  padding: 15px 0px 30px 0px;
+  color: #FFFFFF;
+  line-height: 18px;
+}
+
+.footer-pad ul {
+  padding-left: 0px;
+}
+
+.right-align {
+  text-align: right;
+  list-style-position: inside;
+}
+
+.footer-pad ul li {
+  list-style-type: none;
+  padding: 5px 0px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  color: #8E90A6;
+}
+
+.footer-pad ul li a {
+  color: #8E90A6 !important;
+}
+
+.footer-pad ul li a:hover {
+  text-decoration: none;
+}
+
+.footer-bg {
+  background-color: #f2f2f2;
+}
+
+.footer-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.form-inline {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  padding: 10px 0px;
+}
+
+.form-inline input {
+  vertical-align: middle;
+  margin: 0px 15px 0px 0;
+  padding: 10px;
+  background-color: #555770;
+  border: 1px solid #a0a3c5;
+  height: 48px;
+  width: 370px;
+  border-radius: 4px;
+  color: #FFFFFF;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.footer-logo {
+  width: 100px;
+  padding-bottom: 25px;
+}
+
+.form-inline button {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  border: 1px solid #E3E4EB;
+  color: #FFFFFF;
+  cursor: pointer;
+  width: auto;
+  height: 48px;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+/* footer css code [end] */
+
+
+
+
+/* <---- mobile responsive code----> */
+@media only screen and (min-width: 360px) and (max-width: 768px) {
+  .main-heading {
+    font-size: 30px;
+    line-height: 36px;
+  }
+
+  .sub-text {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400;
+    padding: 10px 0px;
+  }
+
+  /* Nanvar code css start */
+  .navbar {
+    padding: 10px 15px;
+  }
+
+  .navbar-ul {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .navbar .nav-item {
+    padding: 0px 0px 0px 0px;
+    width: 100%;
+  }
+
+  .navbar .nav-link {
+    line-height: 35px;
+  }
+
+  /* Leading Business css code [start] */
+  .leading-business {
+    background-image: none;
+    padding: 20px 0px;
+  }
+
+  .lb-height {
+    height: auto;
+  }
+
+  .leading-business .ulheading {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 700;
+
+  }
+
+  .leading-business ul {
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 14px;
+    padding: 5px 0px 0px 0px;
+  }
+
+  .leading-business ul li {
+    padding: 5px 0px;
+  }
+
+
+  .calccheck-circle .fa-check {
+    bottom: 0px;
+  }
+
+  .newsletter-bg img {
+    width: 100%;
+    height: auto;
+  }
+
+  .valuation-calc-btn {
+    margin-right: 10px;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 500;
+    height: 48px;
+    width: 180px;
+    padding: 10px 0px;
+
+  }
+
+  .free-consultation-btn {
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 500;
+    height: 48px;
+    width: 200px;
+    padding: 10px 0px;
+
+  }
+
+  .three-sixty-text {
+    font-size: 12px;
+    padding: 10px 0px;
+    letter-spacing: 6px;
+    width: 100%;
+  }
+
+  /* Our partrner section css code [start] */
+
+  .our-partner .partner-name {
+    font-size: 16px;
+    line-height: 20px;
+
+  }
+
+  .slide-track {
+    gap: 3em;
+  }
+
+
+  /* Our speaking numbers section css code [start]- */
+  .our-speaking-numbers {
+    padding: 40px 0px;
+  }
+
+  .our-speaking-numbers .number-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+  }
+
+  .number-flex .number-heading {
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 700;
+  }
+
+  .number-flex .number-text {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .number-bg {
+    background-color: #FAFAFA;
+    height: 86px;
+    border-radius: 6px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 0px;
+  }
+
+  .number-bg img {
+    padding-right: 10px;
+  }
+
+  .divider {
+    height: 100%;
+    width: 0px;
+    background-color: #CCCCCC;
+    margin: 0 0px;
+  }
+
+  /* Our service section css code [start]- */
+  .our-services {
+    padding: 20px 0px;
+  }
+
+  .our-service-card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 10px 10px;
+    border-radius: 12px;
+    border: 1px solid #CDCDCD;
+    margin: 10px 0px;
+    height: 270px;
+  }
+
+  .our-service-card:hover {
+    border: 1px solid #D02D2D;
+  }
+
+  .our-service-card .card-text-pad {
+    padding-left: 15px;
+  }
+
+  .our-service-card .ourservice-card-heading {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
+  }
+
+  .our-service-card .ourservice-card-text {
+    font-size: 12px;
+    line-height: 16px;
+    padding: 5px 0px 5px 0px;
+  }
+
+  .our-service-card .ourservice-link-more {
+    font-size: 12px;
+    line-height: 14px;
+  }
+
+  .ourservice-link-more img {
+    width: 16px;
+  }
+
+
+
+  /* valuation calulator css code start */
+  .valuation-calulator {
+    padding: 20px 0px;
+    background: #0B1F40;
+    margin-top: 20px;
+    background-image: url('../images/development-bg.png');
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 50%;
+  }
+
+  .valuation-calulator .vc-calc-flex {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .width50 {
+    width: 100% !important;
+    margin: 0px 5% 0px 5%;
+  }
+
+  .vc-calc-flex .vc-heading {
+    font-size: 30px;
+    line-height: 34px;
+  }
+
+  .vc-calc-flex .vc-text {
+    font-size: 14px;
+    line-height: 18px;
+    padding: 5px 0/px;
+  }
+
+  .vc-calc-flex ul {
+    list-style: none;
+    font-size: 14px;
+    line-height: 18px;
+    padding: 5px 0px 5px 0px;
+
+  }
+
+  .vc-calc-flex ul li {
+    padding: 5px 0px;
+  }
+
+
+  .vccheck-circle .fa-check {
+    bottom: 2px;
+  }
+
+  .click-here-bv-btn {
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 500;
+    height: 46px;
+    width: 100%;
+    padding: 12px 0px;
+
+  }
+
+  /* Recent Article section css code [start] */
+  .recent-article {
+    padding: 20px 0px;
+  }
+
+  .nav-tabs .nav-link img {
+    padding: 0px 5px;
+  }
+
+  .recent-article-tabs {
+    padding: 10px 0px;
+  }
+
+  .recent-article-tabs .nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .recent-article-tabs .nav-item {
+    flex: 1;
+  }
+
+  .recent-article-tabs .nav-link {
+    width: 100%;
+    padding: 10px 0px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    line-height: 20px;
+    color: #7D7D82;
+    height: 80px;
+    background-color: #EDEDED;
+    border-radius: 0px;
+  }
+
+
+
+  .recent-article-tabs .nav-link img {
+    margin-right: 8px;
+  }
+
+  .article-date {
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  .article-heading {
+    font-size: 16px;
+    line-height: 20px;
+    padding: 2px 0px;
+  }
+
+  .article-text {
+    font-size: 12px;
+    line-height: 16px;
+  }
+
+  /* Newsletter section css code[start]  */
+
+  .newsletter {
+    padding: 20px 0px;
+  }
+
+
+
+  .newsletter .ulheading {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .newsletter ul {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    padding: 5px 0px 0px 0px;
+  }
+
+  .newsletter ul li {
+    padding: 5px 0px;
+  }
+
+
+  .newsletter-bg img {
+    width: 100%;
+    height: auto
+  }
+
+  .subscribe-btn {
+    margin-right: 10px;
+    font-size: 12px;
+    line-height: 16px;
+    height: 36px;
+    width: 140px;
+    padding: 10px 0px;
+
+  }
+
+  .download-latest-btn {
+    font-size: 12px;
+    line-height: 16px;
+    height: 36px;
+    width: 200px;
+    padding: 10px 0px;
+  }
+
+
+  /* What is Business Valuation section css code[start]  */
+  .what-bv {
+    padding: 20px 0px 0px 0px;
+  }
+
+  .what-bv .bv-subtext {
+    font-size: 16px;
+    line-height: 22px;
+    /* font-weight: 400; */
+    /* color: #555770; */
+    padding: 10px 0px;
+    /* text-align: center; */
+  }
+
+  .what-bv .view-sample-btn {
+    border-radius: 6px;
+    /* margin: 0 auto; */
+    font-size: 14px;
+    line-height: 20px;
+    /* font-weight: 500; */
+    height: 36px;
+    width: 100%;
+
+  }
+
+
+
+  .what-bv-bg img {
+    height: auto;
+    z-index: -1;
+    position: relative;
+    bottom: 0px;
+
+  }
+
+  .note {
+    font-size: 12px;
+    line-height: 16px;
+    height: auto;
+    padding: 15px 0px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+
+
+  /* Business Valuation in India section css code[start]  */
+  .business-valuation {
+    padding: 20px 0px;
+    background-image: url("../images/right-circle.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 20%;
+  }
+
+  .business-valuation .vb-heading {
+    font-size: 30px;
+    line-height: 36px;
+    padding: 10px 0px 0px 0px;
+  }
+
+  .business-valuation .vb-text {
+    font-size: 14px;
+    line-height: 18px;
+    padding: 10px 0px;
+
+  }
+
+  .business-valuation ul {
+    list-style: none;
+    font-size: 14px;
+    line-height: 18px;
+    padding: 5px 0px 5px 0px;
+  }
+
+  .business-valuation ul li {
+    padding: 7px 0px;
+  }
+
+
+
+  .click-here-btn {
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 500;
+    height: 36px;
+    width: 250px;
+    padding: 10px 0px;
+    margin: 0 auto 30px auto;
+  }
+
+
+  /* Our Other Services carousel CSS code [start] */
+  .services-carousel {
+    padding: 20px 0px;
+  }
+
+  .services-carousel .carousel-heading-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .circle {
+    width: 50px;
+    height: 50px;
+    padding: 10px 10px;
+    margin: 0px 5%;
+  }
+
+  .service-card {
+    padding: 10px;
+    border: 1px solid #CDCDCD;
+    border-radius: 12px;
+    margin: 0px auto;
+    width: 320px;
+    height: auto;
+  }
+
+  .owl-carousel .item {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .services-img {
+    width: 100%;
+    max-width: 50px;
+    height: auto;
+  }
+
+
+  .service-card .sc-heading {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  .service-card .sc-text {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+
+  }
+
+
+  .owl-carousel {
+    margin: 10px 0px 0px 0px;
+  }
+
+  .owl-carousel .item:first-child {
+    margin-left: 15px;
+  }
+
+  /* FAQ Section css code [start] */
+  .faq-section {
+    padding: 20px 0px
+  }
+
+  .accordion-card {
+    padding: 10px 0px;
+    margin: 0px 0px 10px 0px;
+  }
+
+  .accordion-card .accordion-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 5px;
+
+  }
+
+
+  .accordion-card .accordion-heading {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .accordion-card .accordion-content {
+    font-size: 12px;
+    line-height: 18px;
+    padding: 5px 0px;
+  }
+
+  /* Footer css code [start] */
+
+  .page-footer .copywright-text {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    padding: 15px 0px;
+
+  }
+
+  .footer-pad .mail-text {
+    display: flex;
+  }
+
+  .footer-pad {
+    padding: 20px 0px 0px 0px;
+  }
+
+  .footer-pad .footer-address {
+
+    padding: 10px 0px 10px 0px !important;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+
+  }
+
+  .footer-pad .footer-heading {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+    padding: 0px 0px 5px 0px;
+  }
+
+  .footer-pad .footer-signuptext {
+    font-size: 12px;
+    font-weight: 400;
+    padding: 15px 0px 20px 0px;
+    color: #FFFFFF;
+    line-height: 18px;
+  }
+
+  .footer-pad ul {
+    padding-left: 0px;
+  }
+
+  .right-align {
+    text-align: right;
+    list-style-position: inside;
+  }
+
+  .footer-pad ul li {
+    list-style-type: none;
+    padding: 5px 0px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #8E90A6;
+  }
+
+  .footer-pad ul li a {
+    color: #8E90A6 !important;
+  }
+
+  .footer-pad ul li a:hover {
+    text-decoration: none;
+  }
+
+  .footer-bg {
+    background-color: #f2f2f2;
+  }
+
+  .footer-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .form-inline {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    padding: 10px 0px;
+  }
+
+  .form-inline input {
+    vertical-align: middle;
+    margin: 0px 0px 10px 0;
+    padding: 10px;
+    /* background-color: #555770; */
+    /* border: 1px solid #a0a3c5; */
+    height: 48px;
+    width: 100%;
+    /* border-radius: 4px; */
+    /* color: #FFFFFF; */
+    font-size: 16px;
+    line-height: 24px;
+    /* font-weight: 400; */
+    /* margin-bottom: 10px; */
+  }
+
+  .footer-logo {
+    width: 100px;
+    padding-bottom: 25px;
+  }
+
+  .form-inline button {
+    padding: 10px 10px;
+    font-size: 14px;
+    line-height: 18px;
+    width: 100%;
+
+  }
+
+
+}
